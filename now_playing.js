@@ -1,5 +1,3 @@
-Wsh = WScript.CreateObject("WScript.Shell");
- 
 iTunes = WScript.CreateObject("iTunes.Application");
  
 WScript.ConnectObject(iTunes, "my_");
